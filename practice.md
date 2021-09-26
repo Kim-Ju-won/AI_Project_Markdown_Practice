@@ -9,8 +9,8 @@ I am a student studying computer science.<br>
 
 ## 📫 How to reach me
 <a href="mailto:이메일 주소" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-<a href="https://인스타그램 주소" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-<a href="https://페이스북 주소" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
+<a href="인스타그램 주소" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="페이스북 주소" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=Facebook&logoColor=white"/></a>
 <a href="링크드인 주소" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>
 <a href="블로그 주소" target="_blank"><img src="https://img.shields.io/badge/Blog-F56C2D?style=flat-square&logo=Opsgenie&logoColor=white"/></a>
 <a href="유튜브 주소" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=YouTube&logoColor=white"/></a>
@@ -22,19 +22,9 @@ I am a student studying computer science.<br>
 ## 🔥 Experience
 - 본인의 이력을 적어주세요(직책과 함께 적어주시면 됩니다. )
 
-아래 Awards위에 있는 것은 예시입니다 작성하시고 지워 주세요
-- Core Member of AI Project TEAM intramural Computer Science academy conference PnP [21.03~21.09]
-- Leader of AI Project TEAM intramural Computer Science academy conference PnP [21.03~21.09]
-- 2021 HUFS Software Volunteering Planning Manager of AI Research Academy of Hankuk University of Foreign Studies [21.03~]
-- Head team of intramural Computer Science academy conference PnP [21.06~]
-- Leader of AI STUDY TEAM intramural Computer Science academy conference PnP [21.03~21.09]
-- Python Programming Education Manager called "HUFS! START-UP! PYTHON" [21.06~21.08]
-- Python Programming Education Lecturer called "HUFS! START-UP! PYTHON" [21.06~21.08]
-- PNP Embbeded Computer Programming Team Leader [18.06~ 19.12]
-- 2018 the World Embbeded Software Contest final in COEX [18.06~ 19.12] 
-
 ## 🏆 Awards
 - 본인의 수상경력을 적어주세요. 수상 경력이 없으시면 ##Awards부분을 통째로 지워주시면 됩니다.
+
 
 ## 🛠 Skills
 <center>
